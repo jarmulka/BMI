@@ -8,7 +8,7 @@ int main() {
     float waga, wzrost, bmi;
 
 
-    cout << "Podaj wagę w kilogramach: ";
+    cout << "Podaj wage w kilogramach: ";
     cin >> waga;
 
     cout << "Podaj wzrost w metrach: ";

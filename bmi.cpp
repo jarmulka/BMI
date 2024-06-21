@@ -11,12 +11,12 @@ float calculateBMI(float waga, float wzrost) {
 
 void interpretBMI(float bmi) {
     if (bmi < 18.5) {
-        cout << "Masz niedowagę." << endl;
+        cout << "Masz niedowage." << endl;
     } else if (bmi >= 18.5 && bmi < 24.9) {
-        cout << "Twoja waga jest prawidłowa." << endl;
+        cout << "Twoja waga jest prawidlowa." << endl;
     } else if (bmi >= 25 && bmi < 29.9) {
-        cout << "Masz nadwagę." << endl;
+        cout << "Masz nadwage." << endl;
     } else {
-        cout << "Masz otyłość." << endl;
+        cout << "Masz otylosc." << endl;
     }
 }

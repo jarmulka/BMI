@@ -5,4 +5,4 @@
 float calculateBMI(float waga, float wzrost);
 void interpretBMI(float bmi);
 
-#endif // BMI_H
+#endif
